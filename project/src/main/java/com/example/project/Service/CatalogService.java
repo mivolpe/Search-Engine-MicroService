@@ -1,5 +1,7 @@
-package com.example.project;
+package com.example.project.Service;
 
+import com.example.project.Model.Catalog;
+import com.example.project.Repository.CatalogRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
